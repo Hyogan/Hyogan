@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 - ⚡ Fun fact **I think i am funny**
 
   ### 🔥 My Stats 
-<img width="400" src="https://github-readme-stats.vercel.app/api?username=Hyogan&count_private=true&show_icons=true&theme=react" /><img width="425" src="https://streak-stats.demolab.com/?user=Hyogan&theme=react" />
+<img width="400" style="marging-right=10px;" src="https://github-readme-stats.vercel.app/api?username=Hyogan&count_private=true&show_icons=true&theme=react" /><img width="425" src="https://streak-stats.demolab.com/?user=Hyogan&theme=react" />
 <img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=Hyogan&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
 
 <!--  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyogan&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)-->
