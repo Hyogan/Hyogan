@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi 👋, I'm Nelson Tiagho</h1>
 <h3 align="center">A passionate fullstack developer from Cameroon</h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=10000&center=true&vCenter=true&width=800&height=30&lines=Hello+this+is+GL01%2C+Welcome+to+my+Github+page.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=10000&center=true&vCenter=true&width=800&height=30&lines=Hello+this+is+Nelson+Welcome+to+my+Github+page.)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on **e_travel**
 
@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 - ⚡ Fun fact **I think i am funny**
 
   ### 🔥 My Stats 
-<img width="400" src="https://github-readme-stats.vercel.app/api?Hyogan&count_private=true&show_icons=true&theme=react" />  <img width="425" src="https://streak-stats.demolab.com/?user=Hyogan&theme=react" />
+<img width="400" src="https://github-readme-stats.vercel.app/api?username=Hyogan&count_private=true&show_icons=true&theme=react" />  <img width="425" src="https://streak-stats.demolab.com/?user=Hyogan&theme=react" />
 <img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=Hyogan&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
 <a href="https://github.com/Hyogan/github-stats">
 <img src="https://Hyogan.github.io/github-stats.github.io/generated/overview.svg#gh-dark-mode-only" />
