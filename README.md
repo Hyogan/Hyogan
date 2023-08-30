@@ -38,4 +38,4 @@ You can click the Preview link to take a look at your changes.
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hyogan&theme=transparent&show_icons=true&locale=en&layout=compact" alt="hyogan" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hyogan&theme=transparent&show_icons=true&locale=en" alt="hyogan" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hyogan&theme=transparent&show_icons=true&locale=en" alt="hyogan" /></p>
