@@ -18,9 +18,9 @@ You can click the Preview link to take a look at your changes.
 
 - ⚡ Fun fact **I think i am funny**
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyogan&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyogan&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
   <div></div>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyogan&theme=radical&size_weight=0.5&count_weight=0.5)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyogan&size_weight=0.5&count_weight=0.5)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/nelsontiagho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nelsontiagho" height="30" width="40" /></a>
