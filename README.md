@@ -24,9 +24,9 @@ You can click the Preview link to take a look at your changes.
 <img width="400" src="https://github-readme-stats.vercel.app/api?username=Hyogan&count_private=true&show_icons=true&theme=react" /><img width="425" src="https://streak-stats.demolab.com/?user=Hyogan&theme=react" />
 <img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=Hyogan&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyogan&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+<!--  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyogan&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)-->
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyogan&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/nelsontiagho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nelsontiagho" height="30" width="40" /></a>
