@@ -23,10 +23,6 @@ You can click the Preview link to take a look at your changes.
   ### 🔥 My Stats 
 <img width="400" src="https://github-readme-stats.vercel.app/api?username=Hyogan&count_private=true&show_icons=true&theme=react" /><img width="425" src="https://streak-stats.demolab.com/?user=Hyogan&theme=react" />
 <img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=Hyogan&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
-<a href="https://github.com/Hyogan/github-stats">
-<img src="https://Hyogan.github.io/github-stats.github.io/generated/overview.svg#gh-dark-mode-only" />
-<img src="https://Hyogan.github.io/github-stats.github.io/generated/languages.svg#gh-dark-mode-only" />
-</a>
 
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyogan&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -49,3 +45,22 @@ You can click the Preview link to take a look at your changes.
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hyogan&theme=transparent&show_icons=true&locale=en&layout=compact" alt="hyogan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hyogan&theme=transparent&show_icons=true&locale=en" alt="hyogan" /></p>
+
+
+### 🔗 Social info
+
+<div id="badges">
+    <a href="https://www.linkedin.com/in/arsenefogue971aa9258/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=tiaghojeux@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+    </a>
+ <!--    <a href="https://portfolio-de-aagam.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-dda703?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge"/>
+    </a>
+    <a href="https://gl01.gitbook.io/gfg-editorials">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" alt="GFG"/>
+    </a>*/-->
+</div>
+
