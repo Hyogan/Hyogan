@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🔭 I’m currently working on **e_travel**
 
-- 🌱 I’m currently learning **Vuejs**
+- 🌱 I’m currently learning **Nextjs**
 
 - 👀 I’m interested in 3d, programming on all forms
 - 💞️ I’m looking to collaborate on as much project as possible
